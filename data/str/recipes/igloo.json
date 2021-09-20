@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#R#",
+        "GCM"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:snow_block"
+        },
+        "R": {
+            "item": "minecraft:red_bed"
+        },
+        "G": {
+            "item": "minecraft:glass_bottle"
+        },
+        "C": {
+            "item": "minecraft:cobblestone"
+        },
+        "M": {
+            "item": "minecraft:golden_apple"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

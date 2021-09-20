@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#S#",
+        "SES",
+        "CSC"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:diamond"
+        },
+        "S": {
+            "item": "minecraft:stone"
+        },
+        "E": {
+            "item": "minecraft:ender_eye"
+        },
+        "C": {
+            "item": "minecraft:cobblestone_stairs"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

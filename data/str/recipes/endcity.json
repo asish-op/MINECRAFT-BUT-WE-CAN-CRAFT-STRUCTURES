@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#PP",
+        "PSP",
+        "EEE"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:oak_boat"
+        },
+        "P": {
+            "item": "minecraft:purpur_block"
+        },
+        "S": {
+            "item": "minecraft:shulker_box"
+        },
+        "E": {
+            "item": "minecraft:end_stone"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "str:endcity"
+            }
+        }
+    },
+    "rewards": {
+        "function": "str:crafted/endcity"
+    }
+}

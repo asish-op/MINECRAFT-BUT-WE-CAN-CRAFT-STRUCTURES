@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#N#",
+        "NGN",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:blackstone"
+        },
+        "N": {
+            "item": "minecraft:netherrack"
+        },
+        "G": {
+            "item": "minecraft:gold_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}
